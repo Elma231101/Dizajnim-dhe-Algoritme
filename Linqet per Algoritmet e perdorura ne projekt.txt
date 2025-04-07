@@ -1,0 +1,8 @@
+Linqet per HashMap, Min-Heap, Bucket-Sort dhe Priority Queue:
+1) HashMap: https://hashmap-visualization.vercel.app/
+
+2) Min-Heap: https://www.cs.usfca.edu/~galles/visualization/Heap.html
+
+3) Bucket-Sort: https://www.cs.usfca.edu/~galles/visualization/BucketSort.html
+
+4) Priority Queue: https://priority-queue-visualizer.vercel.app/
